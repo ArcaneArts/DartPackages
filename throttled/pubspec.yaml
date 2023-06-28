@@ -1,0 +1,6 @@
+name: throttled
+description: Throttle function calls on a cooldown while ensuring the last call eventually runs with leaky calls.
+version: 1.0.1
+homepage: https://github.com/ArcaneArts/throttled
+environment:
+  sdk: '>=2.18.4 <3.0.0'

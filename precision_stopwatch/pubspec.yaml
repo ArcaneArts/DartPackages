@@ -1,0 +1,8 @@
+name: precision_stopwatch
+description: A precision stopwatch to measure the difference in time (timestamps) using both milliseconds AND nanoseconds, then combining the difference in nanos to give the milliseconds decimal accuracy.
+version: 1.0.2
+homepage: https://github.com/ArcaneArts/precision_stopwatch
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+dependencies:
+  fast_log: ^1.0.1

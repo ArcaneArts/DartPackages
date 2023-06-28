@@ -1,0 +1,13 @@
+name: gradient_ui
+description: UI widgets with gradient support. Supports many widgets like Elevated/TextButton, FloatingActionButton, Icon, IconButton, Text, SelectableText etc with more to come.
+version: 1.1.0
+homepage: https://github.com/ArcaneArts/gradient_ui
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
